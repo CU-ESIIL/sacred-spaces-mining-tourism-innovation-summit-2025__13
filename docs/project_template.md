@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "OASIS: 3-Day Team Template"
-subtitle: "A friction-free guide for collaborative research sprints"
+title: "Sacred Spaces Sprint Playbook"
+subtitle: "Rapid prototypes for respectful tourism at reclaimed mining sites"
 hero_image: assets/template/hero.svg
 team_logo: assets/template/team-logo.svg
-contact_slack: "#oasis-project-room"
-contact_email: "team@example.org"
-repo_owner: "cu-esiil"
-repo_name: "Project_group_OASIS"
+contact_slack: "#sacred-spaces"
+contact_email: "sacredspaces@esiil.org"
+repo_owner: "CU-ESIIL"
+repo_name: "sacred-spaces-mining-tourism-innovation-summit-2025__13"
 edit_path: "docs/project_template.md"
 ---
 

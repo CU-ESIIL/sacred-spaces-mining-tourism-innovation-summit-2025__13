@@ -1,9 +1,14 @@
 cff-version: 1.2.0
 message: "If you use this repository, please cite it as below."
-title: "Project Group OASIS"
-version: "1.0.0"
-doi: 10.5281/zenodo.11166898
-date-released: 2025-09-10
+title: "Sacred Spaces — Mining Tourism Innovation Summit 2025 (Group 13)"
+version: "0.1.0"
+date-released: 2025-02-10
 authors:
-  - family-names: Tuff
-    given-names: Ty
+  - name: "Sacred Spaces Sprint Team"
+    affiliation: "Environmental Data Science Innovation & Inclusion Lab (ESIIL)"
+abstract: |
+  Rapid prototypes, code, and documentation created by Group 13 of the 2025 Mining
+  Tourism Innovation Summit. The project explores respectful visitor experiences for
+  culturally significant post-mining landscapes by combining community knowledge,
+  geospatial analysis, and storytelling assets.
+repository-code: "https://github.com/CU-ESIIL/sacred-spaces-mining-tourism-innovation-summit-2025__13"

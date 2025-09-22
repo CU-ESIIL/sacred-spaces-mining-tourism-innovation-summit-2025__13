@@ -1,6 +1,6 @@
-# Group Notes
+# Group 13 — Sacred Spaces notes
 
-Use this shared notebook to capture meeting highlights, decisions, and follow-up tasks.
+Use this shared notebook to capture meeting highlights, decisions, and follow-up tasks throughout the summit.
 
 - Summarize key takeaways after each working session.
 - Note data sources, analysis ideas, and open questions.
