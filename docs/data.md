@@ -13,7 +13,7 @@ This page documents datasets used by the Sacred Spaces sprint. Link to shared st
 
 ## Storage locations
 
-- **CyVerse community folder:** [`i:/iplant/home/shared/esiil/Innovation_summit/Group_13`](https://de.cyverse.org/data/ds/iplant/home/shared/esiil/Innovation_summit/Group_13)
+- **CyVerse community folder:** [`i:/iplant/home/shared/esiil/Innovation_summit/Group_13`](https://de.cyverse.org/data/ds/iplant/home/shared/esiil/Innovation_summit/Group_13?type=folder&resourceId=c244d2a2-95a1-11f0-b0fb-90e2ba675364)
 - **GitHub repo data directory:** `data/` (for small, shareable samples or derived artifacts under 50 MB).
 
 ## Data stewardship checklist

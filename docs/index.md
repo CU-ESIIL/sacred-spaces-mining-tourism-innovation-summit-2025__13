@@ -11,7 +11,7 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 
 **Three-day sprint focus:** Map and prototype visitor experiences that honor Indigenous sacred spaces while reimagining retired mining infrastructure for community-driven tourism.
 
-**[Project brief (GitHub)](https://github.com/CU-ESIIL/sacred-spaces-mining-tourism-innovation-summit-2025__13/blob/main/documentation/group-notes.md) · [View shared code](https://github.com/CU-ESIIL/sacred-spaces-mining-tourism-innovation-summit-2025__13/tree/main/code) · [Data & access](data.md)**
+**[Project brief (PDF)](assets/Seven%20ways%20to%20measure%20fire%20polygon%20velocity-4.pdfa) · [View code](https://github.com/CU-ESIIL/sacred-spaces-mining-tourism-innovation-summit-2025__13/blob/main/code/fired_time_hull_panel.ipynb) · [Explore data](https://github.com/CU-ESIIL/sacred-spaces-mining-tourism-innovation-summit-2025__13/blob/main/code/prism_quicklook.py)**
 
 > **About this site:** This is a public, in-progress record of Group 13's work at the Mining Tourism Innovation Summit. Edit directly in GitHub: open a file → pencil icon → Commit changes.
 
@@ -146,13 +146,13 @@ Respectful tourism can generate revenue for land care and cultural programming. 
 <table>
 <tr>
 <td align="center" width="33%">
-  <a href="assets/Seven%20ways%20to%20measure%20fire%20polygon%20velocity-4.pdf"><img src="assets/button_brief.gif" alt="Project brief PDF" width="240"><br><strong>Read the brief</strong></a>
+  <a href="assets/Seven%20ways%20to%20measure%20fire%20polygon%20velocity-4.pdfa"><img src="assets/button_brief.gif" alt="Project brief PDF" width="240"><br><strong>Read the brief</strong></a>
 </td>
 <td align="center" width="33%">
   <a href="https://github.com/CU-ESIIL/sacred-spaces-mining-tourism-innovation-summit-2025__13/blob/main/code/fired_time_hull_panel.ipynb"><img src="assets/button_code.gif" alt="View shared code" width="240"><br><strong>View code</strong></a>
 </td>
 <td align="center" width="33%">
-  <a href="https://github.com/CU-ESIIL/sacred-spaces-mining-tourism-innovation-summit-2025__13/blob/main/code/single_hull_demo.py"><img src="assets/button_data.gif" alt="Explore data" width="240"><br><strong>Explore data</strong></a>
+  <a href="https://github.com/CU-ESIIL/sacred-spaces-mining-tourism-innovation-summit-2025__13/blob/main/code/prism_quicklook.py"><img src="assets/button_data.gif" alt="Explore data" width="240"><br><strong>Explore data</strong></a>
 </td>
 </tr>
 </table>
@@ -177,7 +177,7 @@ Keep shared scripts, notebooks, and utilities in the [`code/`](https://github.co
 Use the [`docs/`](https://github.com/CU-ESIIL/sacred-spaces-mining-tourism-innovation-summit-2025__13/tree/main/docs) folder to publish public-facing updates. Longer internal notes can live in [`documentation/`](https://github.com/CU-ESIIL/sacred-spaces-mining-tourism-innovation-summit-2025__13/tree/main/documentation); summarize key takeaways here once they are ready for the public site.
 
 ### Persistent storage
-For large datasets or outputs, save to the CyVerse group folder: [`i:/iplant/home/shared/esiil/Innovation_summit/Group_13`](https://de.cyverse.org/data/ds/iplant/home/shared/esiil/Innovation_summit/Group_13). See **Save to persistent storage** in the navigation for GoCommands examples.
+For large datasets or outputs, save to the CyVerse group folder: [`i:/iplant/home/shared/esiil/Innovation_summit/Group_13`](https://de.cyverse.org/data/ds/iplant/home/shared/esiil/Innovation_summit/Group_13?type=folder&resourceId=c244d2a2-95a1-11f0-b0fb-90e2ba675364). See **Save to persistent storage** in the navigation for GoCommands examples.
 
 ---
 
